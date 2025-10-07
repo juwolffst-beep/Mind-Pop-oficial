@@ -1,0 +1,19 @@
+body {
+	font-family: Lexend deca;
+	background color: #f5f3ed
+	text-align: center;
+	padding: 50px;
+}
+
+
+h1 {
+	color: #f9cfd0;
+}
+
+
+button {
+	padding: 10px 20px;
+	font-size: 18px;
+	cursor: pointer;
+}
+
